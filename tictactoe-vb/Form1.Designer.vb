@@ -43,75 +43,102 @@ Partial Class Form1
         '
         'btn1
         '
+        Me.btn1.BackColor = System.Drawing.Color.White
+        Me.btn1.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn1.ForeColor = System.Drawing.Color.Black
         Me.btn1.Location = New System.Drawing.Point(-1, 0)
         Me.btn1.Name = "btn1"
         Me.btn1.Size = New System.Drawing.Size(85, 87)
         Me.btn1.TabIndex = 0
-        Me.btn1.UseVisualStyleBackColor = True
+        Me.btn1.UseVisualStyleBackColor = False
         '
         'btn2
         '
+        Me.btn2.BackColor = System.Drawing.Color.White
+        Me.btn2.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn2.ForeColor = System.Drawing.Color.Black
         Me.btn2.Location = New System.Drawing.Point(90, 0)
         Me.btn2.Name = "btn2"
         Me.btn2.Size = New System.Drawing.Size(85, 87)
         Me.btn2.TabIndex = 1
-        Me.btn2.UseVisualStyleBackColor = True
+        Me.btn2.UseVisualStyleBackColor = False
         '
         'btn3
         '
+        Me.btn3.BackColor = System.Drawing.Color.White
+        Me.btn3.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn3.ForeColor = System.Drawing.Color.Black
         Me.btn3.Location = New System.Drawing.Point(181, 0)
         Me.btn3.Name = "btn3"
         Me.btn3.Size = New System.Drawing.Size(85, 87)
         Me.btn3.TabIndex = 2
-        Me.btn3.UseVisualStyleBackColor = True
+        Me.btn3.UseVisualStyleBackColor = False
         '
         'btn4
         '
+        Me.btn4.BackColor = System.Drawing.Color.White
+        Me.btn4.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn4.ForeColor = System.Drawing.Color.Black
         Me.btn4.Location = New System.Drawing.Point(-1, 93)
         Me.btn4.Name = "btn4"
         Me.btn4.Size = New System.Drawing.Size(85, 87)
         Me.btn4.TabIndex = 5
-        Me.btn4.UseVisualStyleBackColor = True
+        Me.btn4.UseVisualStyleBackColor = False
         '
         'btn5
         '
+        Me.btn5.BackColor = System.Drawing.Color.White
+        Me.btn5.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn5.ForeColor = System.Drawing.Color.Black
         Me.btn5.Location = New System.Drawing.Point(90, 93)
         Me.btn5.Name = "btn5"
         Me.btn5.Size = New System.Drawing.Size(85, 87)
         Me.btn5.TabIndex = 4
-        Me.btn5.UseVisualStyleBackColor = True
+        Me.btn5.UseVisualStyleBackColor = False
         '
         'btn6
         '
+        Me.btn6.BackColor = System.Drawing.Color.White
+        Me.btn6.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn6.ForeColor = System.Drawing.Color.Black
         Me.btn6.Location = New System.Drawing.Point(181, 93)
         Me.btn6.Name = "btn6"
         Me.btn6.Size = New System.Drawing.Size(85, 87)
         Me.btn6.TabIndex = 3
-        Me.btn6.UseVisualStyleBackColor = True
+        Me.btn6.UseVisualStyleBackColor = False
         '
         'btn7
         '
+        Me.btn7.BackColor = System.Drawing.Color.White
+        Me.btn7.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn7.ForeColor = System.Drawing.Color.Black
         Me.btn7.Location = New System.Drawing.Point(-1, 186)
         Me.btn7.Name = "btn7"
         Me.btn7.Size = New System.Drawing.Size(85, 87)
         Me.btn7.TabIndex = 8
-        Me.btn7.UseVisualStyleBackColor = True
+        Me.btn7.UseVisualStyleBackColor = False
         '
         'btn8
         '
+        Me.btn8.BackColor = System.Drawing.Color.White
+        Me.btn8.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn8.ForeColor = System.Drawing.Color.Black
         Me.btn8.Location = New System.Drawing.Point(90, 186)
         Me.btn8.Name = "btn8"
         Me.btn8.Size = New System.Drawing.Size(85, 87)
         Me.btn8.TabIndex = 7
-        Me.btn8.UseVisualStyleBackColor = True
+        Me.btn8.UseVisualStyleBackColor = False
         '
         'btn9
         '
+        Me.btn9.BackColor = System.Drawing.Color.White
+        Me.btn9.Font = New System.Drawing.Font("Segoe Print", 36.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn9.ForeColor = System.Drawing.Color.Black
         Me.btn9.Location = New System.Drawing.Point(181, 186)
         Me.btn9.Name = "btn9"
         Me.btn9.Size = New System.Drawing.Size(85, 87)
         Me.btn9.TabIndex = 6
-        Me.btn9.UseVisualStyleBackColor = True
+        Me.btn9.UseVisualStyleBackColor = False
         '
         'btnReset
         '
@@ -135,13 +162,15 @@ Partial Class Form1
         '
         'btnExit
         '
+        Me.btnExit.BackColor = System.Drawing.Color.Red
+        Me.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnExit.Font = New System.Drawing.Font("Showcard Gothic", 11.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnExit.Location = New System.Drawing.Point(335, 341)
+        Me.btnExit.Location = New System.Drawing.Point(334, 355)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(126, 33)
         Me.btnExit.TabIndex = 11
         Me.btnExit.Text = "Exit"
-        Me.btnExit.UseVisualStyleBackColor = True
+        Me.btnExit.UseVisualStyleBackColor = False
         '
         'Label1
         '
@@ -214,6 +243,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btn3)
         Me.Controls.Add(Me.btn2)
         Me.Controls.Add(Me.btn1)
+        Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.Text = "Tic-Tac-Toe"
         Me.ResumeLayout(False)

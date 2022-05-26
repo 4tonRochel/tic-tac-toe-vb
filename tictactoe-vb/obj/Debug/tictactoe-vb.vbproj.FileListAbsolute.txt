@@ -1,0 +1,12 @@
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\bin\Debug\tictactoe-vb.exe.config
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\bin\Debug\tictactoe-vb.exe
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\bin\Debug\tictactoe-vb.pdb
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\bin\Debug\tictactoe-vb.xml
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.vbproj.AssemblyReference.cache
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe_vb.Form1.resources
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe_vb.Resources.resources
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.vbproj.GenerateResource.cache
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.vbproj.CoreCompileInputs.cache
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.exe
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.xml
+C:\Users\SherylMejia\Documents\tic-tac-toe-vb\tic-tac-toe-vb\tictactoe-vb\obj\Debug\tictactoe-vb.pdb
